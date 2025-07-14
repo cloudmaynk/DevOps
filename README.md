@@ -5,7 +5,7 @@
 | Category         | Tools                  |
 |------------------|------------------------|
 | 🗂️ Version Control | GitHub                 |
-| 🔁 CI/CD          | Jenkins                |
+| 🔁 CI/CD          | Jenkins               |
 | ✅ Code Quality   | SonarQube              |
 | 📦 Containerization | Docker               |
 | ☸️ Orchestration  | Kubernetes (Minikube/EKS) |
