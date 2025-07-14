@@ -9,9 +9,9 @@
 | ✅ Code Quality   | SonarQube              |
 | 📦 Containerization | Docker               |
 | ☸️ Orchestration  | Kubernetes (Minikube/EKS) |
-| 📊 Monitoring     | Prometheus + Grafana   |
-| 🔒 Security       | Trivy, OWASP ZAP       |
-| 🌱 IaC            | Terraform              |
+| 📊 Monitoring     | Cloud Watch   |
+| 🔒 Security       | Trivy       |
+| 🌱 IaC            | Terraform            |
 
 ## 🚦 Project Stages
 
